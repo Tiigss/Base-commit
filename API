@@ -1,0 +1,7 @@
+# API Notes
+
+Basic guidelines for working with APIs:
+
+- Use proper authentication
+- Handle errors gracefully
+- Log responses for debugging
