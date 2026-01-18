@@ -1,0 +1,8 @@
+# Fun Projects
+
+Small projects to practice coding:
+
+- Meme generator
+- Weather app
+- Simple blog
+- Quiz game
