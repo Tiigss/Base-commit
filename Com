@@ -1,0 +1,8 @@
+# Community
+
+Ways to engage with the developer community:
+
+- Join online forums
+- Attend local meetups
+- Participate in hackathons
+- Another one
