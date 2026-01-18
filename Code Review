@@ -1,0 +1,7 @@
+# Code Review Checklist
+
+Things to check during reviews:
+
+- Code readability
+- Performance impact
+- Security concerns
