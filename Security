@@ -1,0 +1,7 @@
+# Security Guidelines
+
+Basic security practices:
+
+- Use strong passwords
+- Keep dependencies updated
+- Validate user input
