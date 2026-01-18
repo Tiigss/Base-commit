@@ -1,0 +1,7 @@
+# Deployment Guide
+
+Steps to deploy the application:
+
+- Build the project
+- Run tests
+- Deploy to production server
