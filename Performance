@@ -1,0 +1,7 @@
+# Performance Improvements
+
+Ideas to improve application performance:
+
+- Optimize database queries
+- Reduce asset sizes
+- Cache frequent requests
